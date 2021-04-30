@@ -99,7 +99,6 @@ pyasn1-modules
 pycparser
 Pygments
 pymssql
-pyobjc-core==7.1
 pyobjc-framework-Cocoa
 pyodbc
 pyparsing
